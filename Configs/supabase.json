@@ -1,0 +1,7 @@
+﻿{
+  "Host": "aws-0-us-west-1.pooler.supabase.com",
+  "Username": "franciscoapvst@gmail.com",
+  "Password": "supabase",
+  "Database": "postgres",
+  "Port": 6543
+}

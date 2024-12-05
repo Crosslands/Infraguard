@@ -1,0 +1,50 @@
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.csproj.AssemblyReference.cache
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.Home.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.csproj.GenerateResource.cache
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.AssemblyInfoInputs.cache
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.AssemblyInfo.cs
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.csproj.CoreCompileInputs.cache
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\InfraGuard BO.exe
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\InfraGuard BO.deps.json
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\InfraGuard BO.runtimeconfig.json
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\InfraGuard BO.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\InfraGuard BO.pdb
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\MimeMapping.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Core.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Functions.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Gotrue.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Postgrest.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Realtime.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Supabase.Storage.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.Reactive.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\System.Threading.Channels.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\Websocket.Client.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.csproj.CopyComplete
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\refint\InfraGuard BO.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.pdb
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard BO.genruntimeconfig.cache
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\ref\InfraGuard BO.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.SignIn.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.ReportesForm.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.ReportesLogs.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.SessionLogsForm.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.RolesForm.resources
+C:\Users\Franc\OneDrive\Escritorio\IG\IG BO\InfraGuard BO\obj\Debug\net7.0-windows\InfraGuard_BO.UsuariosForm.resources
